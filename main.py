@@ -1,4 +1,6 @@
 print("Hello World!")
 
-a = input()
-b = input()
+a = int(input())
+b = int(input())
+
+c = a + b
